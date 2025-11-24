@@ -1,7 +1,6 @@
 
-  ## Running the code
+  ## Rodar o App
 
-  Run `npm i` to install the dependencies.
+  Execute `npm i` para instalar as dependências.
 
-  Run `npm run dev` to start the development server.
-  
+  Execute `npm run dev` para iniciar o servidor de desenvolvimento.
